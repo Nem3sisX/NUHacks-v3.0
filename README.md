@@ -1,1 +1,1 @@
-# NUHacksv3.0
+# NUHacks-v3.0
